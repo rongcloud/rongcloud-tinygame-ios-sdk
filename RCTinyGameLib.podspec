@@ -34,7 +34,7 @@ Pod::Spec.new do |s|
 
     s.vendored_frameworks = 'RCTinyGameLib.xcframework', 'SudMGPSDK/SudMGP.xcframework'
 
-    
+    s.dependency 'AFNetworking'
 
 end
 
