@@ -12,10 +12,10 @@ typedef NS_ENUM(NSUInteger, SoundControl) {
 
 @interface RCGameSound : NSObject
 
-/** 是否开启游戏音效，默认开 */
+/// 是否开启游戏音效，默认开
 @property(nonatomic, assign) SoundControl soundControl;
 
-/** 游戏音量0-100，默认100 */
+/// 游戏音量0-100，默认100
 @property(nonatomic, assign) NSInteger soundVolume;
 
 + (instancetype)gameSoundControl:(SoundControl)control volume:(NSInteger)volume;

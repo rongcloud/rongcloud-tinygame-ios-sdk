@@ -10,27 +10,27 @@
 		</data>
 		<key>Headers/RCDrawGuessDelegate.h</key>
 		<data>
-		OgiF5NxY3lG85RkyHQq9W/f/nHw=
+		F7Jt7SfK+HK3b06JPrcS10b0laU=
 		</data>
 		<key>Headers/RCGameConfig.h</key>
 		<data>
-		PbQYESK/6ehOxEP7jTSN0k3VRy4=
+		bgyI4xV/VJWyflJxsz8TVH9cJhM=
 		</data>
 		<key>Headers/RCGameEngine.h</key>
 		<data>
-		e2Tin5JkDwjzI4JxT40WGyp0LUw=
+		lU9CENDZFucPYOqBJOST7ERt6I4=
 		</data>
 		<key>Headers/RCGameInfo.h</key>
 		<data>
-		rBVgq1WcO51c/15fAtb30JTK4og=
+		gMSXH2UIkd6B7qGYKIg2Qy+DfOc=
 		</data>
 		<key>Headers/RCGameOption.h</key>
 		<data>
-		686E6yYOHs7F/eb2xokSthr4rlg=
+		uhBTTQuXJYZY9djaKpuJ/kQNRc0=
 		</data>
 		<key>Headers/RCGamePlayerStateDelegate.h</key>
 		<data>
-		skRDQlym+EGSWzAAGcTSObi/UCU=
+		XvVwjTrUmW3wTjObXsKk41G6pqc=
 		</data>
 		<key>Headers/RCGameSettle.h</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Headers/RCGameSound.h</key>
 		<data>
-		I/V3aMfbpJDDHf2gQqN/zzPORsI=
+		kO9EQBmQe7Kl3u/6M3s1OoWBZIQ=
 		</data>
 		<key>Headers/RCGameStateDelegate.h</key>
 		<data>
-		MD9aGwbSO7wWaJQRnJelKNkzO8s=
+		UYOOHUVA/fP6LANrm8EeAW32jUs=
 		</data>
 		<key>Headers/RCGameUI.h</key>
 		<data>
@@ -78,66 +78,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OgiF5NxY3lG85RkyHQq9W/f/nHw=
+			F7Jt7SfK+HK3b06JPrcS10b0laU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Muny5TJ/9rV5/bzmdMrxU+npHfyL/NVGh5IdMSCYevY=
+			tcv7ebR1n8o3zI2W5VIQGzc36rI6bQRxWA8ybxOjRg8=
 			</data>
 		</dict>
 		<key>Headers/RCGameConfig.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PbQYESK/6ehOxEP7jTSN0k3VRy4=
+			bgyI4xV/VJWyflJxsz8TVH9cJhM=
 			</data>
 			<key>hash2</key>
 			<data>
-			/14BF181nzQIsTFg59hBKF4p6TSg98p3v6CAYddVmJk=
+			NEDgEknG11mv6p1siDoXKgTdUwpn5Ff79a6cDtFl/A4=
 			</data>
 		</dict>
 		<key>Headers/RCGameEngine.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			e2Tin5JkDwjzI4JxT40WGyp0LUw=
+			lU9CENDZFucPYOqBJOST7ERt6I4=
 			</data>
 			<key>hash2</key>
 			<data>
-			FkWEgGQww0X5hMRE5iytoz+ZCNMShssNbyeEhNUJH2I=
+			Sa7LdbEdLSwjnfSfSLuRwTKzjUWZbNqtRQp6e7Pndyk=
 			</data>
 		</dict>
 		<key>Headers/RCGameInfo.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rBVgq1WcO51c/15fAtb30JTK4og=
+			gMSXH2UIkd6B7qGYKIg2Qy+DfOc=
 			</data>
 			<key>hash2</key>
 			<data>
-			WvQnad47VWHatozHrg9Z6/gbE3yHjoHnoKc1ncyAkQU=
+			1tZwzBJVjZNTdUKW/fcxOfpbi+E49pPi8eyv2QF9SZM=
 			</data>
 		</dict>
 		<key>Headers/RCGameOption.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			686E6yYOHs7F/eb2xokSthr4rlg=
+			uhBTTQuXJYZY9djaKpuJ/kQNRc0=
 			</data>
 			<key>hash2</key>
 			<data>
-			m7UI5kIb5f6Tx9lvmrJyNST68HH2YW7N8G2QZ8/Zyfc=
+			pW68/YZyZqX+vuqeFQYQC1bVVSqcMCrXj5ycsBHVWRI=
 			</data>
 		</dict>
 		<key>Headers/RCGamePlayerStateDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			skRDQlym+EGSWzAAGcTSObi/UCU=
+			XvVwjTrUmW3wTjObXsKk41G6pqc=
 			</data>
 			<key>hash2</key>
 			<data>
-			vfcfygLqi+WVaXbif6iA8OVIBODCdJqTPZGQvzcO/Ko=
+			ErWVrgVbEyZ+UD9LkoTRmG3FmWsv0jFTsQZngqj6HTU=
 			</data>
 		</dict>
 		<key>Headers/RCGameSettle.h</key>
@@ -155,22 +155,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			I/V3aMfbpJDDHf2gQqN/zzPORsI=
+			kO9EQBmQe7Kl3u/6M3s1OoWBZIQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			2ICCi5IS9KLmZZwRaex5h7Owg+d+yYbFdGfSOvmKJRg=
+			x+K2coCKRRItFG73PXu6MN3lS1maY0ySwHvGMKGmlLM=
 			</data>
 		</dict>
 		<key>Headers/RCGameStateDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MD9aGwbSO7wWaJQRnJelKNkzO8s=
+			UYOOHUVA/fP6LANrm8EeAW32jUs=
 			</data>
 			<key>hash2</key>
 			<data>
-			UAjdmyXX+I9a1WZUcpk70sietkEzkl9nPzHFZhatbvY=
+			VYc7VUPBCa92HvFdEiQs8xCanoHvKVrAWwaroBB1IY0=
 			</data>
 		</dict>
 		<key>Headers/RCGameUI.h</key>

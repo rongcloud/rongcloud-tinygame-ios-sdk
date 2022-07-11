@@ -14,19 +14,19 @@ typedef NS_ENUM(NSUInteger, RCGameCpu) {
 
 + (nullable RCGameOption *)defaultOption;
 
-/** 游戏画面大小 */
+/// 游戏画面大小
 @property(nonatomic, assign) CGSize gameViewSize;
 
-/** 游戏安全区域，可设置游戏可操作区域到四周的距离 */
+/// 游戏安全区域，可设置游戏可操作区域到四周的距离
 @property(nonatomic, assign) UIEdgeInsets gameSafeRect;
 
-/** 游戏cpu功耗，默认正常功耗*/
+/// 游戏cpu功耗，默认正常功耗
 @property(nonatomic, assign) RCGameCpu gameCpu;
 
-/** 游戏音效 */
+/// 游戏音效
 @property(nonatomic, strong) RCGameSound *sound;
 
-/** 游戏UI展示控制 */
+/// 游戏UI展示控制
 @property(nonatomic, strong) RCGameUI *gameUI;
 
 
