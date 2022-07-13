@@ -11,6 +11,6 @@ pod 'RCTinyGameLib'
 
 ## 解决方案
 
-[游戏房 QuickDemo]()
+[游戏房 QuickDemo](https://github.com/rongcloud/rctinygame-quickdemo-ios)
 
-[SDK文档地址]()
+[SDK文档地址](https://doc.rongcloud.cn/tinygame/IOS/1.X/overview)
