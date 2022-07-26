@@ -34,7 +34,7 @@
 		</data>
 		<key>Headers/RCGameSettle.h</key>
 		<data>
-		5L5bQOu6OoWT8H+EHZ8mG4RKy0o=
+		gjzYfEevoBY0YqeKHjGiFUFsqcI=
 		</data>
 		<key>Headers/RCGameSound.h</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Headers/RCGameUI.h</key>
 		<data>
-		2cEJMQBZWs+S46ww+dTVNOgW3vc=
+		j5N5Xl0EclH5E+hz/uVhUQ1m6PY=
 		</data>
 		<key>Headers/RCTinyGameLib.h</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Zp9Nk5TpJUP2rGwIvEpY0YfXCnQ=
+		Vl1QfRFF3E0aDO+G4nYuKbRlsDQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -144,11 +144,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5L5bQOu6OoWT8H+EHZ8mG4RKy0o=
+			gjzYfEevoBY0YqeKHjGiFUFsqcI=
 			</data>
 			<key>hash2</key>
 			<data>
-			QJfe0U+7YDmSYBihyFHJ25VY4eW8BlrUbTxDnDeVxK4=
+			WOCzTf1N4RHHmuKj2G7Mht7KeIAYpOP/ZsdMA2kwdEI=
 			</data>
 		</dict>
 		<key>Headers/RCGameSound.h</key>
@@ -177,11 +177,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2cEJMQBZWs+S46ww+dTVNOgW3vc=
+			j5N5Xl0EclH5E+hz/uVhUQ1m6PY=
 			</data>
 			<key>hash2</key>
 			<data>
-			azz2TXw/uhQCYkJeVSyEISJci61vKQtL92dxuTt7UUY=
+			f63xKUdwGdU+OdclVd1QyP60tAGSyzL3BW65Wmt6ZHA=
 			</data>
 		</dict>
 		<key>Headers/RCTinyGameLib.h</key>

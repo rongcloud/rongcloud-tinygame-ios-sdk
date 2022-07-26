@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
 
     s.name         = "RCTinyGameLib"
-    s.version      = "1.0.1"
+    s.version      = "1.0.2"
     s.summary      = "Rong Cloud Tiny Game Lib."
 
 
@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
     s.license      = { :type => "Copyright", :text => "Copyright 2021 RongCloud" }
     s.author             = { "hanxiaoqing" => "https://www.rongcloud.cn/" }
     s.social_media_url   = "https://www.rongcloud.cn/"
-    s.platform     = :ios, "13.0"
+    s.platform     = :ios, "11.0"
     s.source           = { :git => 'https://github.com/rongcloud/rongcloud-tinygame-ios-sdk.git', :tag => s.version.to_s }
     s.requires_arc = true
     s.static_framework = true
